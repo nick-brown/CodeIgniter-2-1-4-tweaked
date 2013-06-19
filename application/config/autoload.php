@@ -111,6 +111,18 @@ $autoload['language'] = array();
 
 $autoload['model'] = array();
 
+/*
+| -------------------------------------------------------------------
+|  Auto-load Sparks
+| -------------------------------------------------------------------
+| Prototype:
+|
+|	$autoload['sparks'] = array('spark1/version', 'spark2/version');
+|
+*/
+
+$autoload['sparks'] = array();
+
 
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
