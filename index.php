@@ -18,7 +18,8 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	switch($_SERVER['HTTP_HOST'])
+
+	switch($_SERVER['SERVER_NAME'])
 	{
 		case 'localhost':
 			$env = 'development';
