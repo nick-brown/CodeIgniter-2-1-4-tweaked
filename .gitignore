@@ -1,3 +1,9 @@
+.DS_Store
 .idea/
-application/logs/
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+application/logs/*
 vendor/
+!application/logs/index.html
+!application/logs/.htaccess
