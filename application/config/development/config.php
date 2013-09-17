@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'http://localhost/codeigniter2-1-4';
 
 /*
 |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ $config['base_url']	= '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'http://localhost/CodeIgniter-2-1-3';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
